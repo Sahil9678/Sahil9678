@@ -18,7 +18,7 @@
 **AI/ML:**  
 `LangChain` `LLM` `OpenCV` `NLP` `CNN` `XGBoost` `RandomForest` `SHAP` `Token optimization`
 
-**Auth & Security:** 
+**Auth & Security:**
 `OAuth 2.0` `Okta` `Clerk` `Rate Limiting`
 
 
