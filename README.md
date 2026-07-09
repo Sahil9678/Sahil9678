@@ -26,7 +26,7 @@
 ## 📬 Contact
 
 📧 Email :  [godwalsahil786@gmail.com](mailto:godwalsahil786@gmail.com)  
-🌐 Portfolio : [https://sahilgodwal.netlify.app/](https://sahilgodwal.netlify.app/)  
+🌐 Portfolio : [https://sahilgodwal.com/](https://sahilgodwal.com/)  
 💼 LinkedIn : [LinkedIn](https://www.linkedin.com/in/sahil-godwal-a58418101/)
 
 > *Open to full-time roles, freelance work, and collaborations.*
